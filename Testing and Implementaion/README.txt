@@ -1,0 +1,1 @@
+Project to open in ModelSim is 232Final in the SHERVI folder. Start the simulation of Testbench.v. Arguments can be set and new registers can be added to store new outputs for further testing if need be. 

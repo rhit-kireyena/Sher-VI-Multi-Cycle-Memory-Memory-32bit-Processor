@@ -1,0 +1,2 @@
+Warning (10268): Verilog HDL information at register.v(11): always construct contains both blocking and non-blocking assignments File: C:/Users/olsonmc1/Desktop/csse232project/Team6-2324c-03/implementation/test_reg_ALU_ALUOUT/register.v Line: 11
+Warning (10268): Verilog HDL information at ALU.v(10): always construct contains both blocking and non-blocking assignments File: C:/Users/olsonmc1/Desktop/csse232project/Team6-2324c-03/implementation/test_reg_ALU_ALUOUT/ALU.v Line: 10

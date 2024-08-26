@@ -1,0 +1,10 @@
+# Compile of Memory.v was successful.
+# Compile of MEMORY_TEST.v failed with 2 errors.
+# 2 compiles, 1 failed with 2 errors.
+# Compile of Memory.v was successful.
+# Compile of MEMORY_TEST.v failed with 1 errors.
+# 2 compiles, 1 failed with 1 error.
+# Compile of Memory.v was successful.
+# Compile of MEMORY_TEST.v was successful with warnings.
+# 2 compiles, 0 failed with no errors.
+vsim -gui -l msim_transcript work.MEMORY_TEST

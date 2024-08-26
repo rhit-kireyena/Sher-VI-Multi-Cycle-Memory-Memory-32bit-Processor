@@ -1,0 +1,55 @@
+# vsim -gui -l msim_transcript work.CONTROL_TEST 
+# Start time: 13:22:49 on May 03,2024
+# Loading work.CONTROL_TEST
+# Loading work.SHER_VI_CONTROL
+add wave  \
+sim:/CONTROL_TEST/CLK \
+sim:/CONTROL_TEST/COMMON \
+sim:/CONTROL_TEST/DATAIN \
+sim:/CONTROL_TEST/GENERIC \
+sim:/CONTROL_TEST/HALF_PERIOD \
+sim:/CONTROL_TEST/MEMWRITE \
+sim:/CONTROL_TEST/SKIPCMP \
+sim:/CONTROL_TEST/SPWRITE \
+sim:/CONTROL_TEST/TSPWRITE \
+sim:/CONTROL_TEST/WRITEZERO \
+sim:/CONTROL_TEST/code \
+sim:/CONTROL_TEST/current_state \
+sim:/CONTROL_TEST/reset
+run -all
+#  Not implemented!
+# Testing Make
+# STATE:  0, Common: 1, SPWrite: 0, TSPWrite: 0, WriteZero: 0, MemWrite: 0, SkipCmp: 1, Generic: 1, DataIn: 0
+# STATE:  1, Common: 0, SPWrite: 0, TSPWrite: 0, WriteZero: 0, MemWrite: 1, SkipCmp: 1, Generic: 1, DataIn: 0
+# STATE:  0, Common: 1, SPWrite: 0, TSPWrite: 0, WriteZero: 0, MemWrite: 0, SkipCmp: 1, Generic: 1, DataIn: 0
+# Testing AddSP
+# STATE:  0, Common: 1, SPWrite: 0, TSPWrite: 0, WriteZero: 0, MemWrite: 0, SkipCmp: 1, Generic: 1, DataIn: 0
+# STATE:  2, Common: 0, SPWrite: 0, TSPWrite: 1, WriteZero: 0, MemWrite: 0, SkipCmp: 0, Generic: 1, DataIn: 0
+# STATE:  0, Common: 1, SPWrite: 0, TSPWrite: 0, WriteZero: 0, MemWrite: 0, SkipCmp: 1, Generic: 1, DataIn: 0
+# Testing SubSP
+# STATE:  0, Common: 1, SPWrite: 0, TSPWrite: 0, WriteZero: 0, MemWrite: 0, SkipCmp: 1, Generic: 1, DataIn: 0
+# STATE:  3, Common: 0, SPWrite: 1, TSPWrite: 0, WriteZero: 0, MemWrite: 0, SkipCmp: 1, Generic: 1, DataIn: 0
+# STATE:  0, Common: 1, SPWrite: 0, TSPWrite: 0, WriteZero: 0, MemWrite: 0, SkipCmp: 1, Generic: 1, DataIn: 0
+# Testing Arithmetic
+# STATE:  0, Common: 1, SPWrite: 0, TSPWrite: 0, WriteZero: 0, MemWrite: 0, SkipCmp: 1, Generic: 1, DataIn: 0
+# STATE:  4, Common: 0, SPWrite: 0, TSPWrite: 0, WriteZero: 0, MemWrite: 0, SkipCmp: 0, Generic: 1, DataIn: 0
+# STATE:  5, Common: 0, SPWrite: 0, TSPWrite: 0, WriteZero: 0, MemWrite: 0, SkipCmp: 0, Generic: 0, DataIn: 0
+# STATE:  6, Common: 0, SPWrite: 0, TSPWrite: 0, WriteZero: 0, MemWrite: 1, SkipCmp: 0, Generic: 0, DataIn: 1
+# STATE:  0, Common: 1, SPWrite: 0, TSPWrite: 0, WriteZero: 0, MemWrite: 0, SkipCmp: 1, Generic: 1, DataIn: 0
+# Testing Branch
+# STATE:  0, Common: 1, SPWrite: 0, TSPWrite: 0, WriteZero: 0, MemWrite: 0, SkipCmp: 1, Generic: 1, DataIn: 0
+# STATE:  4, Common: 0, SPWrite: 0, TSPWrite: 0, WriteZero: 0, MemWrite: 0, SkipCmp: 0, Generic: 1, DataIn: 0
+# STATE:  5, Common: 0, SPWrite: 0, TSPWrite: 0, WriteZero: 0, MemWrite: 0, SkipCmp: 0, Generic: 0, DataIn: 0
+# STATE:  7, Common: 1, SPWrite: 1, TSPWrite: 0, WriteZero: 1, MemWrite: 1, SkipCmp: 0, Generic: 0, DataIn: 2
+# STATE:  0, Common: 1, SPWrite: 0, TSPWrite: 0, WriteZero: 0, MemWrite: 0, SkipCmp: 1, Generic: 1, DataIn: 0
+# Testing Jump
+# STATE:  0, Common: 1, SPWrite: 0, TSPWrite: 0, WriteZero: 0, MemWrite: 0, SkipCmp: 1, Generic: 1, DataIn: 0
+# STATE:  4, Common: 0, SPWrite: 0, TSPWrite: 0, WriteZero: 0, MemWrite: 0, SkipCmp: 0, Generic: 1, DataIn: 0
+# STATE:  5, Common: 0, SPWrite: 0, TSPWrite: 0, WriteZero: 0, MemWrite: 0, SkipCmp: 0, Generic: 0, DataIn: 0
+# STATE:  8, Common: 1, SPWrite: 0, TSPWrite: 0, WriteZero: 0, MemWrite: 0, SkipCmp: 0, Generic: 0, DataIn: 0
+# STATE:  0, Common: 1, SPWrite: 0, TSPWrite: 0, WriteZero: 0, MemWrite: 0, SkipCmp: 1, Generic: 1, DataIn: 0
+# ** Note: $stop    : C:/Users/wilsoneb/232ProjectGit/Team6-2324c-03/implementation/Control/CONTROL_TEST.v(125)
+#    Time: 4 us  Iteration: 0  Instance: /CONTROL_TEST
+# Break in Module CONTROL_TEST at C:/Users/wilsoneb/232ProjectGit/Team6-2324c-03/implementation/Control/CONTROL_TEST.v line 125
+# End time: 13:23:42 on May 03,2024, Elapsed time: 0:00:53
+# Errors: 0, Warnings: 0

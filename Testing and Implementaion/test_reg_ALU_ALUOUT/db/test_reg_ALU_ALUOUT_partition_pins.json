@@ -1,0 +1,217 @@
+{
+	"partitions" : [
+		{
+			"name" : "Top",
+			"pins" : [
+				{
+					"name" : "ALUOUT[0]",
+					"strict" : false
+				},
+				{
+					"name" : "ALUOUT[1]",
+					"strict" : false
+				},
+				{
+					"name" : "ALUOUT[2]",
+					"strict" : false
+				},
+				{
+					"name" : "ALUOUT[3]",
+					"strict" : false
+				},
+				{
+					"name" : "ALUOUT[4]",
+					"strict" : false
+				},
+				{
+					"name" : "ALUOUT[5]",
+					"strict" : false
+				},
+				{
+					"name" : "ALUOUT[6]",
+					"strict" : false
+				},
+				{
+					"name" : "ALUOUT[7]",
+					"strict" : false
+				},
+				{
+					"name" : "ALUOUT[8]",
+					"strict" : false
+				},
+				{
+					"name" : "ALUOUT[9]",
+					"strict" : false
+				},
+				{
+					"name" : "ALUOUT[10]",
+					"strict" : false
+				},
+				{
+					"name" : "ALUOUT[11]",
+					"strict" : false
+				},
+				{
+					"name" : "ALUOUT[12]",
+					"strict" : false
+				},
+				{
+					"name" : "ALUOUT[13]",
+					"strict" : false
+				},
+				{
+					"name" : "ALUOUT[14]",
+					"strict" : false
+				},
+				{
+					"name" : "ALUOUT[15]",
+					"strict" : false
+				},
+				{
+					"name" : "cmp",
+					"strict" : false
+				},
+				{
+					"name" : "A[15]",
+					"strict" : false
+				},
+				{
+					"name" : "B[4]",
+					"strict" : false
+				},
+				{
+					"name" : "B[5]",
+					"strict" : false
+				},
+				{
+					"name" : "B[6]",
+					"strict" : false
+				},
+				{
+					"name" : "B[7]",
+					"strict" : false
+				},
+				{
+					"name" : "B[8]",
+					"strict" : false
+				},
+				{
+					"name" : "B[9]",
+					"strict" : false
+				},
+				{
+					"name" : "B[10]",
+					"strict" : false
+				},
+				{
+					"name" : "B[11]",
+					"strict" : false
+				},
+				{
+					"name" : "B[12]",
+					"strict" : false
+				},
+				{
+					"name" : "B[13]",
+					"strict" : false
+				},
+				{
+					"name" : "B[14]",
+					"strict" : false
+				},
+				{
+					"name" : "B[15]",
+					"strict" : false
+				},
+				{
+					"name" : "B[3]",
+					"strict" : false
+				},
+				{
+					"name" : "funct3[1]",
+					"strict" : false
+				},
+				{
+					"name" : "funct3[0]",
+					"strict" : false
+				},
+				{
+					"name" : "A[0]",
+					"strict" : false
+				},
+				{
+					"name" : "B[1]",
+					"strict" : false
+				},
+				{
+					"name" : "B[2]",
+					"strict" : false
+				},
+				{
+					"name" : "B[0]",
+					"strict" : false
+				},
+				{
+					"name" : "A[1]",
+					"strict" : false
+				},
+				{
+					"name" : "A[3]",
+					"strict" : false
+				},
+				{
+					"name" : "A[2]",
+					"strict" : false
+				},
+				{
+					"name" : "A[7]",
+					"strict" : false
+				},
+				{
+					"name" : "A[6]",
+					"strict" : false
+				},
+				{
+					"name" : "A[5]",
+					"strict" : false
+				},
+				{
+					"name" : "A[4]",
+					"strict" : false
+				},
+				{
+					"name" : "A[13]",
+					"strict" : false
+				},
+				{
+					"name" : "A[12]",
+					"strict" : false
+				},
+				{
+					"name" : "A[14]",
+					"strict" : false
+				},
+				{
+					"name" : "A[11]",
+					"strict" : false
+				},
+				{
+					"name" : "A[9]",
+					"strict" : false
+				},
+				{
+					"name" : "A[10]",
+					"strict" : false
+				},
+				{
+					"name" : "A[8]",
+					"strict" : false
+				},
+				{
+					"name" : "funct3[2]",
+					"strict" : false
+				}
+			]
+		}
+	]
+}

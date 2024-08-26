@@ -1,0 +1,54 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/Users/wilsoneb/232ProjectGit/Team6-2324c-03/implementation/ALU/simulation/modelsim
+vCONTROL_TEST
+Z0 !s110 1714756856
+!i10b 1
+!s100 9Y73M=I8FTS_0WkF1O?Qo3
+Ib]RaI8e7QR9H]WzD^zIj_2
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+Z2 dC:/Users/wilsoneb/232ProjectGit/Team6-2324c-03/implementation/Control
+w1714333769
+8C:/Users/wilsoneb/232ProjectGit/Team6-2324c-03/implementation/Control/CONTROL_TEST.v
+FC:/Users/wilsoneb/232ProjectGit/Team6-2324c-03/implementation/Control/CONTROL_TEST.v
+L0 2
+Z3 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z4 !s108 1714756856.000000
+!s107 C:/Users/wilsoneb/232ProjectGit/Team6-2324c-03/implementation/Control/CONTROL_TEST.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/wilsoneb/232ProjectGit/Team6-2324c-03/implementation/Control/CONTROL_TEST.v|
+!i113 1
+Z5 o-work work
+Z6 tCvgOpt 0
+n@c@o@n@t@r@o@l_@t@e@s@t
+vSHER_VI_CONTROL
+R0
+!i10b 1
+!s100 kf[Uibo58^o6aD5<Tka0j3
+INSgc9L;>J4P0FEm9m0U=M2
+R1
+R2
+w1714333782
+8C:/Users/wilsoneb/232ProjectGit/Team6-2324c-03/implementation/Control/db/SHER_VI_CONTROL.v
+FC:/Users/wilsoneb/232ProjectGit/Team6-2324c-03/implementation/Control/db/SHER_VI_CONTROL.v
+L0 3
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:/Users/wilsoneb/232ProjectGit/Team6-2324c-03/implementation/Control/db/SHER_VI_CONTROL.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/wilsoneb/232ProjectGit/Team6-2324c-03/implementation/Control/db/SHER_VI_CONTROL.v|
+!i113 1
+R5
+R6
+n@s@h@e@r_@v@i_@c@o@n@t@r@o@l

@@ -1,0 +1,24 @@
+C:/Users/wilsoneb/232ProjectGit/Team6-2324c-03/implementation/Control/CONTROL_TEST.v {2 {vlog -work work -stats=none C:/Users/wilsoneb/232ProjectGit/Team6-2324c-03/implementation/Control/CONTROL_TEST.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module CONTROL_TEST
+** Warning: C:/Users/wilsoneb/232ProjectGit/Team6-2324c-03/implementation/Control/CONTROL_TEST.v(9): (vlog-2608) Keyword "unsigned" not allowed here in Verilog 2001.
+** Warning: C:/Users/wilsoneb/232ProjectGit/Team6-2324c-03/implementation/Control/CONTROL_TEST.v(10): (vlog-2608) Keyword "unsigned" not allowed here in Verilog 2001.
+** Warning: C:/Users/wilsoneb/232ProjectGit/Team6-2324c-03/implementation/Control/CONTROL_TEST.v(11): (vlog-2608) Keyword "unsigned" not allowed here in Verilog 2001.
+** Warning: C:/Users/wilsoneb/232ProjectGit/Team6-2324c-03/implementation/Control/CONTROL_TEST.v(12): (vlog-2608) Keyword "unsigned" not allowed here in Verilog 2001.
+** Warning: C:/Users/wilsoneb/232ProjectGit/Team6-2324c-03/implementation/Control/CONTROL_TEST.v(13): (vlog-2608) Keyword "unsigned" not allowed here in Verilog 2001.
+** Warning: C:/Users/wilsoneb/232ProjectGit/Team6-2324c-03/implementation/Control/CONTROL_TEST.v(14): (vlog-2608) Keyword "unsigned" not allowed here in Verilog 2001.
+** Warning: C:/Users/wilsoneb/232ProjectGit/Team6-2324c-03/implementation/Control/CONTROL_TEST.v(15): (vlog-2608) Keyword "unsigned" not allowed here in Verilog 2001.
+** Warning: C:/Users/wilsoneb/232ProjectGit/Team6-2324c-03/implementation/Control/CONTROL_TEST.v(16): (vlog-2608) Keyword "unsigned" not allowed here in Verilog 2001.
+** Warning: C:/Users/wilsoneb/232ProjectGit/Team6-2324c-03/implementation/Control/CONTROL_TEST.v(17): (vlog-2608) Keyword "unsigned" not allowed here in Verilog 2001.
+
+Top level modules:
+	CONTROL_TEST
+
+} {} {}} C:/Users/wilsoneb/232ProjectGit/Team6-2324c-03/implementation/Control/db/SHER_VI_CONTROL.v {1 {vlog -work work -stats=none C:/Users/wilsoneb/232ProjectGit/Team6-2324c-03/implementation/Control/db/SHER_VI_CONTROL.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module SHER_VI_CONTROL
+
+Top level modules:
+	SHER_VI_CONTROL
+
+} {} {}}

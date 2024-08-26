@@ -1,0 +1,12 @@
+
+State Machine - |SHER_VI_CONTROL|current_state
+Name current_state.Branch current_state.Ari current_state.Logic current_state.Load current_state.AddSP current_state.SubSP current_state.Make current_state.Fetch current_state.Jump 
+current_state.Fetch 0 0 0 0 0 0 0 0 0 
+current_state.Make 0 0 0 0 0 0 1 1 0 
+current_state.SubSP 0 0 0 0 0 1 0 1 0 
+current_state.AddSP 0 0 0 0 1 0 0 1 0 
+current_state.Load 0 0 0 1 0 0 0 1 0 
+current_state.Logic 0 0 1 0 0 0 0 1 0 
+current_state.Ari 0 1 0 0 0 0 0 1 0 
+current_state.Branch 1 0 0 0 0 0 0 1 0 
+current_state.Jump 0 0 0 0 0 0 0 1 1 

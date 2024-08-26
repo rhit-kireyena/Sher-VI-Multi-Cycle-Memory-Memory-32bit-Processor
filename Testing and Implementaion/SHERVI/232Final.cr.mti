@@ -1,0 +1,138 @@
+C:/Users/wilsoneb/232ProjectGit/Team6-2324c-03/implementation/register/SPregister.v {1 {vlog -work work -stats=none C:/Users/wilsoneb/232ProjectGit/Team6-2324c-03/implementation/register/SPregister.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module SPregister
+
+Top level modules:
+	SPregister
+
+} {} {}} C:/Users/wilsoneb/232ProjectGit/Team6-2324c-03/implementation/mux/mux1b2.v {1 {vlog -work work -stats=none C:/Users/wilsoneb/232ProjectGit/Team6-2324c-03/implementation/mux/mux1b2.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module mux1b2
+
+Top level modules:
+	mux1b2
+
+} {} {}} C:/Users/wilsoneb/232ProjectGit/Team6-2324c-03/implementation/SHERVI/SHERVI.v {2 {vlog -work work -stats=none C:/Users/wilsoneb/232ProjectGit/Team6-2324c-03/implementation/SHERVI/SHERVI.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module SHERVI
+** Warning: C:/Users/wilsoneb/232ProjectGit/Team6-2324c-03/implementation/SHERVI/SHERVI.v(25): (vlog-2608) Keyword "unsigned" not allowed here in Verilog 2001.
+** Warning: C:/Users/wilsoneb/232ProjectGit/Team6-2324c-03/implementation/SHERVI/SHERVI.v(26): (vlog-2608) Keyword "unsigned" not allowed here in Verilog 2001.
+** Warning: C:/Users/wilsoneb/232ProjectGit/Team6-2324c-03/implementation/SHERVI/SHERVI.v(30): (vlog-2608) Keyword "unsigned" not allowed here in Verilog 2001.
+** Warning: C:/Users/wilsoneb/232ProjectGit/Team6-2324c-03/implementation/SHERVI/SHERVI.v(31): (vlog-2608) Keyword "unsigned" not allowed here in Verilog 2001.
+** Warning: C:/Users/wilsoneb/232ProjectGit/Team6-2324c-03/implementation/SHERVI/SHERVI.v(32): (vlog-2608) Keyword "unsigned" not allowed here in Verilog 2001.
+** Warning: C:/Users/wilsoneb/232ProjectGit/Team6-2324c-03/implementation/SHERVI/SHERVI.v(33): (vlog-2608) Keyword "unsigned" not allowed here in Verilog 2001.
+** Warning: C:/Users/wilsoneb/232ProjectGit/Team6-2324c-03/implementation/SHERVI/SHERVI.v(34): (vlog-2608) Keyword "unsigned" not allowed here in Verilog 2001.
+** Warning: C:/Users/wilsoneb/232ProjectGit/Team6-2324c-03/implementation/SHERVI/SHERVI.v(35): (vlog-2608) Keyword "unsigned" not allowed here in Verilog 2001.
+** Warning: C:/Users/wilsoneb/232ProjectGit/Team6-2324c-03/implementation/SHERVI/SHERVI.v(36): (vlog-2608) Keyword "unsigned" not allowed here in Verilog 2001.
+** Warning: C:/Users/wilsoneb/232ProjectGit/Team6-2324c-03/implementation/SHERVI/SHERVI.v(37): (vlog-2608) Keyword "unsigned" not allowed here in Verilog 2001.
+** Warning: C:/Users/wilsoneb/232ProjectGit/Team6-2324c-03/implementation/SHERVI/SHERVI.v(38): (vlog-2608) Keyword "unsigned" not allowed here in Verilog 2001.
+** Warning: C:/Users/wilsoneb/232ProjectGit/Team6-2324c-03/implementation/SHERVI/SHERVI.v(42): (vlog-2608) Keyword "unsigned" not allowed here in Verilog 2001.
+** Warning: C:/Users/wilsoneb/232ProjectGit/Team6-2324c-03/implementation/SHERVI/SHERVI.v(43): (vlog-2608) Keyword "unsigned" not allowed here in Verilog 2001.
+** Warning: C:/Users/wilsoneb/232ProjectGit/Team6-2324c-03/implementation/SHERVI/SHERVI.v(44): (vlog-2608) Keyword "unsigned" not allowed here in Verilog 2001.
+** Warning: C:/Users/wilsoneb/232ProjectGit/Team6-2324c-03/implementation/SHERVI/SHERVI.v(45): (vlog-2608) Keyword "unsigned" not allowed here in Verilog 2001.
+** Warning: C:/Users/wilsoneb/232ProjectGit/Team6-2324c-03/implementation/SHERVI/SHERVI.v(47): (vlog-2608) Keyword "unsigned" not allowed here in Verilog 2001.
+** Warning: C:/Users/wilsoneb/232ProjectGit/Team6-2324c-03/implementation/SHERVI/SHERVI.v(50): (vlog-2608) Keyword "unsigned" not allowed here in Verilog 2001.
+** Warning: C:/Users/wilsoneb/232ProjectGit/Team6-2324c-03/implementation/SHERVI/SHERVI.v(52): (vlog-2608) Keyword "unsigned" not allowed here in Verilog 2001.
+** Warning: C:/Users/wilsoneb/232ProjectGit/Team6-2324c-03/implementation/SHERVI/SHERVI.v(63): (vlog-2608) Keyword "unsigned" not allowed here in Verilog 2001.
+** Warning: C:/Users/wilsoneb/232ProjectGit/Team6-2324c-03/implementation/SHERVI/SHERVI.v(64): (vlog-2608) Keyword "unsigned" not allowed here in Verilog 2001.
+** Warning: C:/Users/wilsoneb/232ProjectGit/Team6-2324c-03/implementation/SHERVI/SHERVI.v(96): (vlog-2608) Keyword "unsigned" not allowed here in Verilog 2001.
+** Warning: C:/Users/wilsoneb/232ProjectGit/Team6-2324c-03/implementation/SHERVI/SHERVI.v(97): (vlog-2608) Keyword "unsigned" not allowed here in Verilog 2001.
+** Warning: C:/Users/wilsoneb/232ProjectGit/Team6-2324c-03/implementation/SHERVI/SHERVI.v(98): (vlog-2608) Keyword "unsigned" not allowed here in Verilog 2001.
+** Warning: C:/Users/wilsoneb/232ProjectGit/Team6-2324c-03/implementation/SHERVI/SHERVI.v(99): (vlog-2608) Keyword "unsigned" not allowed here in Verilog 2001.
+** Warning: C:/Users/wilsoneb/232ProjectGit/Team6-2324c-03/implementation/SHERVI/SHERVI.v(100): (vlog-2608) Keyword "unsigned" not allowed here in Verilog 2001.
+** Warning: (vlog-2121) C:/Users/wilsoneb/232ProjectGit/Team6-2324c-03/implementation/SHERVI/SHERVI.v(269): Illegal concatenation of an unsized constant. Will treat it as a 32-bit value.
+** Warning: (vlog-2121) C:/Users/wilsoneb/232ProjectGit/Team6-2324c-03/implementation/SHERVI/SHERVI.v(269): Illegal concatenation of an unsized constant. Will treat it as a 32-bit value.
+** Warning: (vlog-2121) C:/Users/wilsoneb/232ProjectGit/Team6-2324c-03/implementation/SHERVI/SHERVI.v(262): Illegal concatenation of an unsized constant. Will treat it as a 32-bit value.
+** Warning: (vlog-2121) C:/Users/wilsoneb/232ProjectGit/Team6-2324c-03/implementation/SHERVI/SHERVI.v(262): Illegal concatenation of an unsized constant. Will treat it as a 32-bit value.
+** Warning: (vlog-2121) C:/Users/wilsoneb/232ProjectGit/Team6-2324c-03/implementation/SHERVI/SHERVI.v(256): Illegal concatenation of an unsized constant. Will treat it as a 32-bit value.
+** Warning: (vlog-2121) C:/Users/wilsoneb/232ProjectGit/Team6-2324c-03/implementation/SHERVI/SHERVI.v(256): Illegal concatenation of an unsized constant. Will treat it as a 32-bit value.
+** Warning: (vlog-2121) C:/Users/wilsoneb/232ProjectGit/Team6-2324c-03/implementation/SHERVI/SHERVI.v(250): Illegal concatenation of an unsized constant. Will treat it as a 32-bit value.
+** Warning: (vlog-2121) C:/Users/wilsoneb/232ProjectGit/Team6-2324c-03/implementation/SHERVI/SHERVI.v(250): Illegal concatenation of an unsized constant. Will treat it as a 32-bit value.
+
+Top level modules:
+	SHERVI
+
+} {} {}} C:/Users/wilsoneb/232ProjectGit/Team6-2324c-03/implementation/Sl/SL.v {1 {vlog -work work -stats=none C:/Users/wilsoneb/232ProjectGit/Team6-2324c-03/implementation/Sl/SL.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module SL
+
+Top level modules:
+	SL
+
+} {} {}} C:/Users/wilsoneb/232ProjectGit/Team6-2324c-03/implementation/register/register.v {1 {vlog -work work -stats=none C:/Users/wilsoneb/232ProjectGit/Team6-2324c-03/implementation/register/register.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module register
+
+Top level modules:
+	register
+
+} {} {}} C:/Users/wilsoneb/232ProjectGit/Team6-2324c-03/implementation/Memory/Memory.v {1 {vlog -work work -stats=none C:/Users/wilsoneb/232ProjectGit/Team6-2324c-03/implementation/Memory/Memory.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module Memory
+
+Top level modules:
+	Memory
+
+} {} {}} C:/Users/wilsoneb/232ProjectGit/Team6-2324c-03/implementation/Control/db/SHER_VI_CONTROL.v {1 {vlog -work work -stats=none C:/Users/wilsoneb/232ProjectGit/Team6-2324c-03/implementation/Control/db/SHER_VI_CONTROL.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module SHER_VI_CONTROL
+
+Top level modules:
+	SHER_VI_CONTROL
+
+} {} {}} C:/Users/wilsoneb/232ProjectGit/Team6-2324c-03/implementation/adder/adder.v {1 {vlog -work work -stats=none C:/Users/wilsoneb/232ProjectGit/Team6-2324c-03/implementation/adder/adder.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module adder
+
+Top level modules:
+	adder
+
+} {} {}} C:/Users/wilsoneb/232ProjectGit/Team6-2324c-03/implementation/ALU/ALU.v {2 {vlog -work work -stats=none C:/Users/wilsoneb/232ProjectGit/Team6-2324c-03/implementation/ALU/ALU.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module ALU
+** Warning: C:/Users/wilsoneb/232ProjectGit/Team6-2324c-03/implementation/ALU/ALU.v(6): (vlog-2608) Keyword "unsigned" not allowed here in Verilog 2001.
+
+Top level modules:
+	ALU
+
+} {} {}} C:/Users/wilsoneb/232ProjectGit/Team6-2324c-03/implementation/SHERVI/SHERVIModule.v {2 {vlog -work work -stats=none C:/Users/wilsoneb/232ProjectGit/Team6-2324c-03/implementation/SHERVI/SHERVIModule.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module SHERVIModule
+** Warning: C:/Users/wilsoneb/232ProjectGit/Team6-2324c-03/implementation/SHERVI/SHERVIModule.v(18): (vlog-2608) Keyword "unsigned" not allowed here in Verilog 2001.
+** Warning: C:/Users/wilsoneb/232ProjectGit/Team6-2324c-03/implementation/SHERVI/SHERVIModule.v(19): (vlog-2608) Keyword "unsigned" not allowed here in Verilog 2001.
+** Warning: C:/Users/wilsoneb/232ProjectGit/Team6-2324c-03/implementation/SHERVI/SHERVIModule.v(27): (vlog-2608) Keyword "unsigned" not allowed here in Verilog 2001.
+** Warning: C:/Users/wilsoneb/232ProjectGit/Team6-2324c-03/implementation/SHERVI/SHERVIModule.v(28): (vlog-2608) Keyword "unsigned" not allowed here in Verilog 2001.
+** Warning: C:/Users/wilsoneb/232ProjectGit/Team6-2324c-03/implementation/SHERVI/SHERVIModule.v(29): (vlog-2608) Keyword "unsigned" not allowed here in Verilog 2001.
+** Warning: C:/Users/wilsoneb/232ProjectGit/Team6-2324c-03/implementation/SHERVI/SHERVIModule.v(30): (vlog-2608) Keyword "unsigned" not allowed here in Verilog 2001.
+** Warning: C:/Users/wilsoneb/232ProjectGit/Team6-2324c-03/implementation/SHERVI/SHERVIModule.v(31): (vlog-2608) Keyword "unsigned" not allowed here in Verilog 2001.
+** Warning: C:/Users/wilsoneb/232ProjectGit/Team6-2324c-03/implementation/SHERVI/SHERVIModule.v(32): (vlog-2608) Keyword "unsigned" not allowed here in Verilog 2001.
+** Warning: C:/Users/wilsoneb/232ProjectGit/Team6-2324c-03/implementation/SHERVI/SHERVIModule.v(33): (vlog-2608) Keyword "unsigned" not allowed here in Verilog 2001.
+** Warning: C:/Users/wilsoneb/232ProjectGit/Team6-2324c-03/implementation/SHERVI/SHERVIModule.v(34): (vlog-2608) Keyword "unsigned" not allowed here in Verilog 2001.
+** Warning: C:/Users/wilsoneb/232ProjectGit/Team6-2324c-03/implementation/SHERVI/SHERVIModule.v(35): (vlog-2608) Keyword "unsigned" not allowed here in Verilog 2001.
+** Warning: C:/Users/wilsoneb/232ProjectGit/Team6-2324c-03/implementation/SHERVI/SHERVIModule.v(39): (vlog-2608) Keyword "unsigned" not allowed here in Verilog 2001.
+** Warning: C:/Users/wilsoneb/232ProjectGit/Team6-2324c-03/implementation/SHERVI/SHERVIModule.v(40): (vlog-2608) Keyword "unsigned" not allowed here in Verilog 2001.
+** Warning: C:/Users/wilsoneb/232ProjectGit/Team6-2324c-03/implementation/SHERVI/SHERVIModule.v(41): (vlog-2608) Keyword "unsigned" not allowed here in Verilog 2001.
+** Warning: C:/Users/wilsoneb/232ProjectGit/Team6-2324c-03/implementation/SHERVI/SHERVIModule.v(42): (vlog-2608) Keyword "unsigned" not allowed here in Verilog 2001.
+** Warning: C:/Users/wilsoneb/232ProjectGit/Team6-2324c-03/implementation/SHERVI/SHERVIModule.v(45): (vlog-2608) Keyword "unsigned" not allowed here in Verilog 2001.
+** Warning: C:/Users/wilsoneb/232ProjectGit/Team6-2324c-03/implementation/SHERVI/SHERVIModule.v(48): (vlog-2608) Keyword "unsigned" not allowed here in Verilog 2001.
+** Warning: C:/Users/wilsoneb/232ProjectGit/Team6-2324c-03/implementation/SHERVI/SHERVIModule.v(50): (vlog-2608) Keyword "unsigned" not allowed here in Verilog 2001.
+** Warning: C:/Users/wilsoneb/232ProjectGit/Team6-2324c-03/implementation/SHERVI/SHERVIModule.v(61): (vlog-2608) Keyword "unsigned" not allowed here in Verilog 2001.
+** Warning: C:/Users/wilsoneb/232ProjectGit/Team6-2324c-03/implementation/SHERVI/SHERVIModule.v(62): (vlog-2608) Keyword "unsigned" not allowed here in Verilog 2001.
+** Warning: C:/Users/wilsoneb/232ProjectGit/Team6-2324c-03/implementation/SHERVI/SHERVIModule.v(94): (vlog-2608) Keyword "unsigned" not allowed here in Verilog 2001.
+** Warning: C:/Users/wilsoneb/232ProjectGit/Team6-2324c-03/implementation/SHERVI/SHERVIModule.v(95): (vlog-2608) Keyword "unsigned" not allowed here in Verilog 2001.
+** Warning: C:/Users/wilsoneb/232ProjectGit/Team6-2324c-03/implementation/SHERVI/SHERVIModule.v(96): (vlog-2608) Keyword "unsigned" not allowed here in Verilog 2001.
+** Warning: C:/Users/wilsoneb/232ProjectGit/Team6-2324c-03/implementation/SHERVI/SHERVIModule.v(97): (vlog-2608) Keyword "unsigned" not allowed here in Verilog 2001.
+** Warning: C:/Users/wilsoneb/232ProjectGit/Team6-2324c-03/implementation/SHERVI/SHERVIModule.v(98): (vlog-2608) Keyword "unsigned" not allowed here in Verilog 2001.
+** Warning: (vlog-2121) C:/Users/wilsoneb/232ProjectGit/Team6-2324c-03/implementation/SHERVI/SHERVIModule.v(266): Illegal concatenation of an unsized constant. Will treat it as a 32-bit value.
+** Warning: (vlog-2121) C:/Users/wilsoneb/232ProjectGit/Team6-2324c-03/implementation/SHERVI/SHERVIModule.v(266): Illegal concatenation of an unsized constant. Will treat it as a 32-bit value.
+** Warning: (vlog-2121) C:/Users/wilsoneb/232ProjectGit/Team6-2324c-03/implementation/SHERVI/SHERVIModule.v(259): Illegal concatenation of an unsized constant. Will treat it as a 32-bit value.
+** Warning: (vlog-2121) C:/Users/wilsoneb/232ProjectGit/Team6-2324c-03/implementation/SHERVI/SHERVIModule.v(259): Illegal concatenation of an unsized constant. Will treat it as a 32-bit value.
+** Warning: (vlog-2121) C:/Users/wilsoneb/232ProjectGit/Team6-2324c-03/implementation/SHERVI/SHERVIModule.v(253): Illegal concatenation of an unsized constant. Will treat it as a 32-bit value.
+** Warning: (vlog-2121) C:/Users/wilsoneb/232ProjectGit/Team6-2324c-03/implementation/SHERVI/SHERVIModule.v(253): Illegal concatenation of an unsized constant. Will treat it as a 32-bit value.
+** Warning: (vlog-2121) C:/Users/wilsoneb/232ProjectGit/Team6-2324c-03/implementation/SHERVI/SHERVIModule.v(247): Illegal concatenation of an unsized constant. Will treat it as a 32-bit value.
+** Warning: (vlog-2121) C:/Users/wilsoneb/232ProjectGit/Team6-2324c-03/implementation/SHERVI/SHERVIModule.v(247): Illegal concatenation of an unsized constant. Will treat it as a 32-bit value.
+
+Top level modules:
+	SHERVIModule
+
+} {} {}}

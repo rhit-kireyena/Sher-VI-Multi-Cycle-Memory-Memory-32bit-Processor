@@ -1,0 +1,85 @@
+{
+	"partitions" : [
+		{
+			"name" : "Top",
+			"pins" : [
+				{
+					"name" : "COMMON",
+					"strict" : false
+				},
+				{
+					"name" : "SPWRITE",
+					"strict" : false
+				},
+				{
+					"name" : "TSPWRITE",
+					"strict" : false
+				},
+				{
+					"name" : "WRITEZERO",
+					"strict" : false
+				},
+				{
+					"name" : "MEMWRITE",
+					"strict" : false
+				},
+				{
+					"name" : "SKIPCMP",
+					"strict" : false
+				},
+				{
+					"name" : "GENERIC",
+					"strict" : false
+				},
+				{
+					"name" : "current_state[0]",
+					"strict" : false
+				},
+				{
+					"name" : "current_state[1]",
+					"strict" : false
+				},
+				{
+					"name" : "current_state[2]",
+					"strict" : false
+				},
+				{
+					"name" : "current_state[3]",
+					"strict" : false
+				},
+				{
+					"name" : "DATAIN[0]",
+					"strict" : false
+				},
+				{
+					"name" : "DATAIN[1]",
+					"strict" : false
+				},
+				{
+					"name" : "code[4]",
+					"strict" : false
+				},
+				{
+					"name" : "code[0]",
+					"strict" : false
+				},
+				{
+					"name" : "code[1]",
+					"strict" : false
+				},
+				{
+					"name" : "code[2]",
+					"strict" : false
+				},
+				{
+					"name" : "CLK",
+					"strict" : false
+				},
+				{
+					"name" : "Reset",
+					"strict" : false
+				}
+			]
+		}
+	]
+}
